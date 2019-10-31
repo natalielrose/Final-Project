@@ -1,0 +1,13 @@
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\bin\Debug\Final Project natalemma.exe.config
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\bin\Debug\Final Project natalemma.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\bin\Debug\Final Project natalemma.pdb
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final Project natalemma.csprojResolveAssemblyReference.cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final_Project_natalemma.Form1.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final_Project_natalemma.Properties.Resources.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final Project natalemma.csproj.GenerateResource.Cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final Project natalemma.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final Project natalemma.pdb
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final_Project_natalemma.Form2.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final_Project_natalemma.Form3.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final_Project_natalemma.Form4.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\emma.duc\my documents\visual studio 2015\Projects\Final Project natalemma\Final Project natalemma\obj\Debug\Final_Project_natalemma.Form5.resources
